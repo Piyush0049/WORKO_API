@@ -1,4 +1,5 @@
 This submission presents the Worko.io API, designed to manage user data with capabilities to retrieve all users' details, access specific user information by ID, update existing records, delete entries, and create new user profiles, made by Piyush Joshi.
+The GET requests can easily be viewed in browser, but for POST, DELETE, and PUT requests you can use either POSTMAN or THUNDERCLIENT.
 
 
 1. Retrieve All Users
